@@ -17,12 +17,12 @@ https://motors-cars-g17.onrender.com
 * react-router-dom
 * react-scripts
 * routes
-styled-components
-styled-react-modal
-typescript
-vite
-web-vitals
-zod
+* styled-components
+* styled-react-modal
+* typescript
+* vite
+* web-vitals
+* zod
 
 ## Funcionalidades
 * Disponibilidade em dispositivos móveis e desktop: a aplicação pode ser acessada em dispositivos móveis e desktop, garantindo que os usuários possam usá-la em qualquer dispositivo.
